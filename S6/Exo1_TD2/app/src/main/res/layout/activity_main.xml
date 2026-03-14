@@ -22,8 +22,7 @@
             android:gravity="center"
             android:hint="Donner une valeur"
             android:inputType="numberSigned"
-            android:textSize="30sp"
-            tools:inputType="numberSigned" />
+            android:textSize="30sp" />
 
         <RadioGroup
             android:layout_width="wrap_content"

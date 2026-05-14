@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">AM_TP4_english</string>
+
+    <string name="article">
+        Mohamed Larbi Ben Mhidi, born in 1923 in Aïn Mlila in the north of the Aurès (present wilaya of Oum El Bouaghi) and died assassinated in 1957,
+        is an Algerian nationalist militant, one of the founders of the FLN in 1954, then fighter during the war of Algeria (1954-1962). Arrested in February 1957,
+        he was tortured and then executed without trial by the French army during the Battle of Algiers.\n He is considered a hero of the revolution in Algeria and his name has been attributed to several places and institutional buildings.
+    </string>
+
+    <string name="english">English</string>
+    <string name="french">French</string>
+    <string name="arabic">Arabic</string>
+</resources>
